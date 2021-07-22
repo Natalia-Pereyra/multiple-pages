@@ -1,28 +1,24 @@
 body {
-    background-color: burlywood;
-    text-align: center;
-    
+  background-color: burlywood;
+  text-align: center;
 }
 h1 {
-    color: black;
-    text-align: center;
-    margin: 20px;
+  color: black;
+  text-align: center;
+  margin: 20px;
 }
-.links {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    }
-
-.links a {
-        color: green;
-        text-decoration: none;
-        margin-top: 20px;
-    }
-    img {
-        max-width: 100%;
-    border-radius: 10px;
-    display: block;
-    margin: 30px auto;
+a {
+  text-align: center;
+  margin: 20px;
+  color: green;
 }
-    
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+.email {
+  margin: 0;
+  color: black;
+}
